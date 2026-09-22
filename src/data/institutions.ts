@@ -41,8 +41,8 @@ export const institutions: Institution[] = [
     name: "Universitas Padjadjaran",
     logo: "/institutions/unpad.svg",
     theme: {
-      light: { primary: "oklch(0.5 0.13 236)", primaryForeground: "oklch(0.99 0.003 95)", secondary: "oklch(0.95 0.035 226)", secondaryForeground: "oklch(0.3 0.09 236)", accent: "oklch(0.91 0.075 93)", accentForeground: "oklch(0.36 0.08 82)", ring: "oklch(0.54 0.14 236)", answerHover: "oklch(0.96 0.025 226)", answerHoverForeground: "oklch(0.28 0.09 236)", answerSelected: "oklch(0.9 0.06 226)", answerSelectedForeground: "oklch(0.25 0.1 236)", answerSelectedBorder: "oklch(0.52 0.14 236)" },
-      dark: { primary: "oklch(0.73 0.12 226)", primaryForeground: "oklch(0.17 0.04 238)", secondary: "oklch(0.27 0.05 234)", secondaryForeground: "oklch(0.94 0.025 226)", accent: "oklch(0.45 0.09 91)", accentForeground: "oklch(0.96 0.035 94)", ring: "oklch(0.73 0.12 226)", answerHover: "oklch(0.28 0.045 234)", answerHoverForeground: "oklch(0.96 0.014 225)", answerSelected: "oklch(0.35 0.075 232)", answerSelectedForeground: "oklch(0.97 0.014 225)", answerSelectedBorder: "oklch(0.74 0.12 226)" },
+      light: { primary: "oklch(0.68 0.17 72)", primaryForeground: "oklch(0.2 0.035 61)", secondary: "oklch(0.96 0.035 82)", secondaryForeground: "oklch(0.31 0.075 61)", accent: "oklch(0.9 0.12 78)", accentForeground: "oklch(0.29 0.07 61)", ring: "oklch(0.62 0.17 68)", answerHover: "oklch(0.97 0.035 82)", answerHoverForeground: "oklch(0.29 0.065 61)", answerSelected: "oklch(0.91 0.095 78)", answerSelectedForeground: "oklch(0.25 0.065 58)", answerSelectedBorder: "oklch(0.61 0.17 68)" },
+      dark: { primary: "oklch(0.8 0.16 78)", primaryForeground: "oklch(0.2 0.04 61)", secondary: "oklch(0.28 0.04 67)", secondaryForeground: "oklch(0.95 0.035 82)", accent: "oklch(0.46 0.1 70)", accentForeground: "oklch(0.97 0.045 84)", ring: "oklch(0.8 0.16 78)", answerHover: "oklch(0.29 0.045 67)", answerHoverForeground: "oklch(0.96 0.025 82)", answerSelected: "oklch(0.38 0.09 67)", answerSelectedForeground: "oklch(0.98 0.025 84)", answerSelectedBorder: "oklch(0.81 0.16 78)" },
     },
   },
   {
