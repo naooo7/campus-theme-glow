@@ -84,7 +84,7 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     (Object.keys(paletteProperties) as Array<keyof InstitutionPalette>).forEach((key) => {
       root.style.setProperty(paletteProperties[key], palette[key]);
     });
-    root.dataset.institutionTheme = institution.id;
+    root.dataset["institutionTheme"] = institution.id;
   }, [institutionThemeEnabled, resolvedTheme, targetInstitutionId]);
 
   const setTargetInstitutionId = (institutionId: string) => {
